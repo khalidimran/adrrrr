@@ -1,24 +1,24 @@
 [{
   "name": "Game 1",
-  "imageUrl": "https://i.ibb.co/jJfMmLk/398-3983382-android-game-icon-png-transparent-png.png",
+  "imageUrl": "https://com-amazon-mas-catalog.s3.amazonaws.com/amzn1.devportal.assetupload.05df9192d59c4684802e899eaf1edcf9_adb081c4-dc80-4e7f-99a6-c6885d2fe7ea_fde7cf8d8ac10992491b9191c86dbb51",
   "link": "https://play.google.com/store/apps/details?id=com.company.gameA",
   "canShow": true
 },
 {
   "name": "Game 2",
-  "imageUrl": "https://i.ibb.co/mFMJJd7/d5bee36-4cecedc1-1e14-4167-851c-d6369d44ba75.jpg",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0eCQcKaAoW4ruUywz2waXXQlRChvRVG9LQg&s",
   "link": "https://play.google.com/",
   "canShow": true
 },
 {
   "name": "Game 3",
-  "imageUrl": "https://i.ibb.co/wddW9cs/Game3.png",
+  "imageUrl": "https://com-amazon-mas-catalog.s3.amazonaws.com/amzn1.devportal.assetupload.21e41ad2202b4c21b1ea69cf15028ea0_07ddf4ff-4080-40db-9400-38500f650d54_782f63b7b3098a105ff63a4c02fc0c11",
   "link": "https://google.com/",
   "canShow": true
 },
 {
   "name": "Game 1",
-  "imageUrl": "https://i.ibb.co/jJfMmLk/398-3983382-android-game-icon-png-transparent-png.png",
+  "imageUrl": "https://m.media-amazon.com/images/I/71auuNopGRL.png",
   "link": "https://play.google.com/store/apps/details?id=com.company.gameA",
   "canShow": true
 },
@@ -30,13 +30,13 @@
 },
 {
   "name": "Game 3",
-  "imageUrl": "https://i.ibb.co/wddW9cs/Game3.png",
+  "imageUrl": "https://cdn6.aptoide.com/imgs/e/5/b/e5bf7e0755bc7f9f61c98f259a6b5ac6_icon.png",
   "link": "https://google.com/",
   "canShow": true
 },
 {
   "name": "Game 1",
-  "imageUrl": "https://i.ibb.co/jJfMmLk/398-3983382-android-game-icon-png-transparent-png.png",
+  "imageUrl": "",
   "link": "https://play.google.com/store/apps/details?id=com.company.gameA",
   "canShow": true
 },
@@ -48,26 +48,26 @@
 },
 {
   "name": "Game 3",
-  "imageUrl": "https://i.ibb.co/wddW9cs/Game3.png",
+  "imageUrl": "https://img.utdstc.com/icon/a10/9c8/a109c87015ce74724518baf6949d0c4092dc2c3f73f22ec1c811c1d490beff44:200",
   "link": "https://google.com/",
   "canShow": true
 },
 {
   "name": "Game 1",
-  "imageUrl": "https://i.ibb.co/jJfMmLk/398-3983382-android-game-icon-png-transparent-png.png",
+  "imageUrl": "https://img.utdstc.com/icon/a10/9c8/a109c87015ce74724518baf6949d0c4092dc2c3f73f22ec1c811c1d490beff44:200",
   "link": "https://play.google.com/store/apps/details?id=com.company.gameA",
   "canShow": true
 },
 {
   "name": "Game 2",
-  "imageUrl": "https://i.ibb.co/mFMJJd7/d5bee36-4cecedc1-1e14-4167-851c-d6369d44ba75.jpg",
-  "link": "https://play.google.com/",
+  "imageUrl": "https://play-lh.googleusercontent.com/g0561b0lfb4kb4CZ5FcoLIRr67hEa7b9-ShbdlQeifmKYmXcAf5R8afVGOOvyALdbVw=w240-h480-rw",
+  "link": "",
   "canShow": true
 },
 {
   "name": "Game 3",
-  "imageUrl": "https://i.ibb.co/wddW9cs/Game3.png",
-  "link": "https://google.com/",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxbiJpp4h7mPzujVg3pGOrEQ1WDtaeaOkb6LcMTcrJ7X_OcEzFvEq8uBcIZWmhpjJjes&usqp=CAU",
+  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
   "canShow": true
 }
 ]
