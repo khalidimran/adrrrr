@@ -19,13 +19,13 @@
 {
   "name": "piano pop 1",
   "imageUrl": "https://m.media-amazon.com/images/I/71auuNopGRL.png",
-  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+  "link": "amzn://apps/android?p=com.PinkPiano.TilesGame",
   "canShow": true
 },
 {
   "name": "piano 2",
   "imageUrl": "https://m.media-amazon.com/images/I/71PJsHmdUvL.png",
-  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+  "link": "amzn://apps/android?p=com.PinkPiano.TilesGame",
   "canShow": true
 },
 {
@@ -60,7 +60,7 @@
 },
 {
   "name": "survival 2",
-  "imageUrl": "https://play-lh.googleusercontent.com/g0561b0lfb4kb4CZ5FcoLIRr67hEa7b9-ShbdlQeifmKYmXcAf5R8afVGOOvyALdbVw=w240-h480-rw",
+  "imageUrl": "https://i.postimg.cc/dtMzG7vw/Screenshot-2025-02-04-200821.png",
   "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
   "canShow": true
 },
